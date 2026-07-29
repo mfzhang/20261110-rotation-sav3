@@ -1,0 +1,21 @@
+# SAV3 忽略规则
+cache/
+output/
+__pycache__/
+*.pyc
+*.pkl
+*.pkl.gz
+*.jsonl
+.env
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+holdings.json
+crisis_state.json
+prev_top20.json
+nav_history.json
+news_sent_history.jsonl
+ferm_patterns.json
+ferm_hitrate_latest.json
